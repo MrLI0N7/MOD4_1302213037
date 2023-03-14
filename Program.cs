@@ -6,21 +6,15 @@ using System.Threading.Tasks;
 
 namespace MOD4_1302213037
 {
-    public class KodeBuah
-    {
-        public enum{
-            Apel,Aprikot,Alpukat,Pisang, Paprika,
-            Blackberry, Ceri,Kelapa,Jagung, Kurma, 
-            Durian,Anggur, Melon, Semangka 
-        };
-
-    } 
 
     internal class Program
     {
         static void Main(string[] args)
         {
-            
+            KodeBuah B = new KodeBuah();
+            KodeBuah.Buah Banana =  KodeBuah.Buah.Pisang;
+            string kodeBuah = B.getKodeBuah(Banana);
+            Console.WriteLine("Kode dari buah "+Banana+" adalah "+ kodeBuah);
         }
     }
 }

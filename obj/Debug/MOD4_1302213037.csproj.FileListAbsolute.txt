@@ -1,0 +1,8 @@
+D:\Liyan\MOD4_1302213037\bin\Debug\MOD4_1302213037.exe.config
+D:\Liyan\MOD4_1302213037\bin\Debug\MOD4_1302213037.exe
+D:\Liyan\MOD4_1302213037\bin\Debug\MOD4_1302213037.pdb
+D:\Liyan\MOD4_1302213037\obj\Debug\MOD4_1302213037.csproj.AssemblyReference.cache
+D:\Liyan\MOD4_1302213037\obj\Debug\MOD4_1302213037.csproj.SuggestedBindingRedirects.cache
+D:\Liyan\MOD4_1302213037\obj\Debug\MOD4_1302213037.csproj.CoreCompileInputs.cache
+D:\Liyan\MOD4_1302213037\obj\Debug\MOD4_1302213037.exe
+D:\Liyan\MOD4_1302213037\obj\Debug\MOD4_1302213037.pdb
