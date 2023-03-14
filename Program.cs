@@ -11,10 +11,13 @@ namespace MOD4_1302213037
     {
         static void Main(string[] args)
         {
-            KodeBuah B = new KodeBuah();
+            KodeBuah Buah = new KodeBuah();
             KodeBuah.Buah Banana =  KodeBuah.Buah.Pisang;
-            string kodeBuah = B.getKodeBuah(Banana);
+            string kodeBuah = Buah.getKodeBuah(Banana);
             Console.WriteLine("Kode dari buah "+Banana+" adalah "+ kodeBuah);
+
+            PosisiKarakterGame Karakter = new PosisiKarakterGame();
+            Karakter.Karakter();
         }
     }
 }
